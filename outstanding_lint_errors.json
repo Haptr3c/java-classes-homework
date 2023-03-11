@@ -32,18 +32,6 @@
 	"endLineNumber": 3,
 	"endColumn": 15
 },{
-	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/MySong.java",
-	"owner": "sonarlint",
-	"code": "java:S1220",
-	"severity": 2,
-	"message": "Move this file to a named package.",
-	"source": "sonarlint",
-	"startLineNumber": 1,
-	"startColumn": 1,
-	"endLineNumber": 1,
-	"endColumn": 1
-}
-[{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
 	"owner": "_generated_diagnostic_collection_name_#8",
 	"code": "268435846",
@@ -61,9 +49,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.set(int, MySong)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -72,9 +60,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.retainAll(Collection<?>)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -83,9 +71,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.clear()",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -94,9 +82,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.removeAll(Collection<?>)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -105,9 +93,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.listIterator(int)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -116,9 +104,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.listIterator()",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -127,9 +115,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.containsAll(Collection<?>)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -138,9 +126,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.indexOf(Object)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -149,9 +137,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.get(int)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -160,9 +148,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.addAll(int, Collection<? extends MySong>)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -171,9 +159,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.addAll(Collection<? extends MySong>)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -182,9 +170,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.subList(int, int)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -193,9 +181,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.remove(int)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -204,9 +192,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.remove(Object)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -215,9 +203,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.lastIndexOf(Object)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -226,9 +214,9 @@
 	"severity": 8,
 	"message": "The type SongList must implement the inherited abstract method List<MySong>.add(int, MySong)",
 	"source": "Java",
-	"startLineNumber": 7,
+	"startLineNumber": 10,
 	"startColumn": 14,
-	"endLineNumber": 7,
+	"endLineNumber": 10,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -237,9 +225,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 8,
+	"startLineNumber": 11,
 	"startColumn": 13,
-	"endLineNumber": 8,
+	"endLineNumber": 11,
 	"endColumn": 22
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -248,9 +236,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 14,
+	"startLineNumber": 21,
 	"startColumn": 9,
-	"endLineNumber": 14,
+	"endLineNumber": 21,
 	"endColumn": 13
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -259,9 +247,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 34,
+	"startLineNumber": 54,
 	"startColumn": 9,
-	"endLineNumber": 34,
+	"endLineNumber": 54,
 	"endColumn": 18
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -270,9 +258,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 34,
+	"startLineNumber": 54,
 	"startColumn": 34,
-	"endLineNumber": 34,
+	"endLineNumber": 54,
 	"endColumn": 38
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -281,9 +269,9 @@
 	"severity": 8,
 	"message": "Cannot instantiate the type Iterator<MySong>",
 	"source": "Java",
-	"startLineNumber": 46,
+	"startLineNumber": 70,
 	"startColumn": 20,
-	"endLineNumber": 46,
+	"endLineNumber": 70,
 	"endColumn": 28
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -292,9 +280,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 52,
+	"startLineNumber": 80,
 	"startColumn": 9,
-	"endLineNumber": 52,
+	"endLineNumber": 80,
 	"endColumn": 18
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -303,9 +291,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 52,
+	"startLineNumber": 80,
 	"startColumn": 34,
-	"endLineNumber": 52,
+	"endLineNumber": 80,
 	"endColumn": 38
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -314,9 +302,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 67,
+	"startLineNumber": 101,
 	"startColumn": 9,
-	"endLineNumber": 67,
+	"endLineNumber": 101,
 	"endColumn": 18
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -325,9 +313,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 67,
+	"startLineNumber": 101,
 	"startColumn": 34,
-	"endLineNumber": 67,
+	"endLineNumber": 101,
 	"endColumn": 38
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -336,9 +324,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 82,
+	"startLineNumber": 121,
 	"startColumn": 9,
-	"endLineNumber": 82,
+	"endLineNumber": 121,
 	"endColumn": 18
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -347,9 +335,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 82,
+	"startLineNumber": 121,
 	"startColumn": 41,
-	"endLineNumber": 82,
+	"endLineNumber": 121,
 	"endColumn": 50
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -358,9 +346,9 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 82,
+	"startLineNumber": 121,
 	"startColumn": 59,
-	"endLineNumber": 82,
+	"endLineNumber": 121,
 	"endColumn": 63
 },{
 	"resource": "/Users/christian.eldering/dev/Haptr3c/java-classes-homework/src/main/java/SongList.java",
@@ -369,8 +357,8 @@
 	"severity": 8,
 	"message": "SLelement cannot be resolved to a type",
 	"source": "Java",
-	"startLineNumber": 83,
+	"startLineNumber": 122,
 	"startColumn": 9,
-	"endLineNumber": 83,
+	"endLineNumber": 122,
 	"endColumn": 13
 }]
